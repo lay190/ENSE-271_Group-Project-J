@@ -2,6 +2,6 @@ ENSE 271 Group Project J
 
 Group Members:
     Lei-Ann
-    Brynna
+    Bryanna
     Audrey
     Mason
